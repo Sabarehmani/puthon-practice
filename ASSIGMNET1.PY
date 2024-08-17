@@ -7,7 +7,7 @@ num1 = int(input("ENTER 1 NUMBER = ") ) #this is String remeber now i will make 
 num2 = int(input("ENTER 2 NUMBER = "))
 
 #perfrom operations
-
+print("tis is our 1 assignment one of python")
 print("the  multiplicatuon of two nuber is " , num1 * num2)
 print("the divided  of two nuber is " , num1 / num2) # in decimal point
 print("the addition  of two nuber is " , num1 + num2)
